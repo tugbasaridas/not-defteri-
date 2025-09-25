@@ -1,0 +1,10 @@
+C:\Users\Tuğba\Desktop\C#\notdefteri\notdefteri\bin\Debug\notdefteri.exe.config
+C:\Users\Tuğba\Desktop\C#\notdefteri\notdefteri\bin\Debug\notdefteri.exe
+C:\Users\Tuğba\Desktop\C#\notdefteri\notdefteri\bin\Debug\notdefteri.pdb
+C:\Users\Tuğba\Desktop\C#\notdefteri\notdefteri\obj\Debug\notdefteri.csproj.AssemblyReference.cache
+C:\Users\Tuğba\Desktop\C#\notdefteri\notdefteri\obj\Debug\notdefteri.Form1.resources
+C:\Users\Tuğba\Desktop\C#\notdefteri\notdefteri\obj\Debug\notdefteri.Properties.Resources.resources
+C:\Users\Tuğba\Desktop\C#\notdefteri\notdefteri\obj\Debug\notdefteri.csproj.GenerateResource.cache
+C:\Users\Tuğba\Desktop\C#\notdefteri\notdefteri\obj\Debug\notdefteri.csproj.CoreCompileInputs.cache
+C:\Users\Tuğba\Desktop\C#\notdefteri\notdefteri\obj\Debug\notdefteri.exe
+C:\Users\Tuğba\Desktop\C#\notdefteri\notdefteri\obj\Debug\notdefteri.pdb
